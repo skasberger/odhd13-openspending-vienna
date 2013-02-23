@@ -1,0 +1,23 @@
+- minus zeichen nach vorne holen
+
+
+
+# Feedback
+- Rechnungsabschluss Stadt Graz 2010 & 2009
+- Character Datenfelder mit Apostroph 
+- Encoding wieder Latin-1
+- keine Sonderzeichen in Zeilennamen  wie "\"
+- Leerzeichen in manchen Variablen
+- Minus Zeichen bei Zahlenwerten nach vorne holen
+
+
+
+
+
+
+
+
+
+
+
+
